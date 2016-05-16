@@ -1,0 +1,13 @@
+languages:
+  - html
+  - css
+tags:
+  - sprites
+  - rollovers
+  - images
+  - background-position
+type:
+  - lab
+tests:
+ - green_onion
+resources: 0
